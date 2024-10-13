@@ -1,0 +1,16 @@
+.msg-box{
+    background-color: #ECDFCC;
+    color: rgb(0, 0, 0);
+    display: flex;
+    max-width: 70%;
+    float: right;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    word-break: break-word;
+}
+.msg-box-paragpraph{
+    display: flex;
+    width: 100%;
+    margin: 5px;
+}
